@@ -13,28 +13,20 @@
     <item>wallpaper_2</item>
     <item>wallpaper_3</item>
     <item>wallpaper_4</item>
-    <item>wallpaper_24</item>
-    <item>wallpaper_25</item>
-    <item>wallpaper_26</item>
-    <item>wallpaper_27</item>
-    <item>wallpaper_28</item>
-    <item>wallpaper_29</item>
-    <item>wallpaper_30</item>
-    <item>wallpaper_31</item>
+    <item>wallpaper_5</item>
+    <item>wallpaper_6</item>
+    <item>wallpaper_7</item>
+
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>H4K3RWall by Floyd Flivercod III</item>
-    <item>H4K3RWall by Floyd Flivercod III</item>
-    <item>H4K3RWall by Floyd Flivercod III</item>
-    <item>H4K3RWall by Floyd Flivercod III</item>
-    <item>Dark Material1 by Yasan</item>
-    <item>Dark Material2 by Yasan</item>
-    <item>Dark Material3 by Yasan</item>
-    <item>Dark Material4 by Yasan</item>
-    <item>Dark Material5 by Yasan</item>
-    <item>Dark Material6 by Yasan</item>
-    <item>Dark Material7 by Yasan</item>
-    <item>Logo Outline by Yasan</item>
+    <item>H4K3R by Floyd Flivercod III</item>
+    <item>Default by Floyd Flivercod III</item>
+    <item>Drunk H4K3R by Floyd Flivercod III</item>
+    <item>H4K3R Glow by Floyd Flivercod III</item>
+    <item>H4K3RFloyd by Floyd Flivercod III</item>
+    <item>H4K3RSexy by Floyd Flivercod III</item>
+    <item>H4K3RSexy2 by Floyd Flivercod III</item>
+
     </string-array>
 </resources>
