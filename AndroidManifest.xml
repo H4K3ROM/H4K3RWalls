@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.aospextended.aexpapers" android:versionName="1.1" android:versionCode="2">
+    package="org.h4k3rom.h4k3rwalls" android:versionName="1.1" android:versionCode="2">
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     

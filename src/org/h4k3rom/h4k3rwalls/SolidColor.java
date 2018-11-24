@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package org.aospextended.aexpapers;
+package org.h4k3rom.h4k3rwalls;
 
 import android.app.Activity;
 import android.app.AlertDialog;
