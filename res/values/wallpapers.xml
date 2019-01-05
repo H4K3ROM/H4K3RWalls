@@ -16,25 +16,17 @@
     <item>wallpaper_5</item>
     <item>wallpaper_6</item>
     <item>wallpaper_7</item>
-    <item>wallpaper_8</item>
-    <item>wallpaper_9</item>
-    <item>wallpaper_10</item>
-    <item>wallpaper_11</item>
 
     </string-array>
 
     <string-array name="info" translatable="false">
     <item>H4K3R by Floyd Flivercod III</item>
     <item>Default by Floyd Flivercod III</item>
-    <item>Drunk H4K3R by Floyd Flivercod III</item>
-    <item>H4K3R Glow by Floyd Flivercod III</item>
-    <item>H4K3RFloyd by Floyd Flivercod III</item>
-    <item>H4K3RSexy by Floyd Flivercod III</item>
-    <item>H4K3RSexy2 by Floyd Flivercod III</item>
-    <item>Cloaked1 by Floyd Flivercod III</item>
-    <item>Cloaked2 by Floyd Flivercod III</item>
+    <item>H4K3R by Floyd Flivercod III</item>
     <item>CloadedInversion by Floyd Flivercod III</item>
-    <item>Cloaded3 by Floyd Flivercod III</item>
+    <item>Cloaked by Floyd Flivercod III</item>
+    <item>CIA H4K3R by Floyd Flivercod III</item>
+    <item>H4K3R Machine by Floyd Flivercod III</item>
 
     </string-array>
 </resources>
